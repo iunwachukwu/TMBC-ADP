@@ -10,6 +10,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+/**
+ * 
+ * @author Innocent Nwachukwu
+ *
+ */
 public class SeleniumFunctions {
 	
 	private WebElement userName;
